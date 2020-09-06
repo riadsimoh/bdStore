@@ -1,0 +1,170 @@
+body {
+  color: #fff;
+}
+
+
+
+.search-bar {
+  background-color: #00adb5;
+  padding: 1rem;
+}
+
+.fa-shopping-cart {
+ color: #fff;
+}
+.logo {
+  width: 70%;
+}
+.nav-link {
+  font-size: 1.2rem;
+  padding: 10px;
+}
+.carou {
+  height: 400px;
+}
+.carousel-control-prev-icon{
+background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23999' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+
+}
+.carousel-control-next-icon{
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23999' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+.titre-bd-vendre {
+  color: #000;
+  text-decoration-line: underline;
+
+}
+main {
+  padding: 30px;
+  background-color: #00adb5;
+}
+.showcase {
+  background-color: #fff;
+  border: 1px solid black;
+
+}
+.bd .col-lg-3 {
+  
+  padding: 0;
+  background-color: #00adb5;
+  border:3px solid black;
+  margin: 1%;
+
+}
+.bd {
+  padding: 1.5rem;
+
+}
+
+.img-tin {
+
+
+  height: 300px;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 20px;
+  
+
+  
+}
+
+.carte {
+  padding: 20px;
+
+
+}
+.prix {
+  border-bottom: 2px solid black;
+  padding-left: 30px;
+  padding-top: 20px
+  
+}
+
+.titre {
+  border-bottom: 2px solid black;
+  padding-left: 30px;
+  
+}
+
+.auteur {
+  border-bottom: 2px solid black;
+  padding-left: 30px;
+}
+.prix span {
+  margin-left: 2rem;
+}
+.buyBtn, .ajoutPanier {
+  padding: 10px;
+  text-align: center;
+  color: #000;
+  font-weight: bolder;
+
+}
+.buyBtn {
+  border-bottom: 2px solid black;
+
+}
+.buyBtn a, .ajoutPanier a {
+  
+  color: #000;
+  font-weight: bolder;
+}
+.buyBtn a:hover, .ajoutPanier a:hover  {
+  color: #444;
+  text-decoration-line: none;
+}
+.search-bar2 {
+  background-color: #00adb5;
+  padding: 2rem;
+} 
+.container-payement {
+ padding: 4rem;
+  color: #000;
+  border: 2px solid #000;
+  background-color:  #fff;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 2px 2px 5px black;
+ 
+}
+.body-payement {
+  background-color: #00adb5;
+   
+}
+
+footer p {
+  background-color: #343A40;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+.ta {
+  padding: 4rem 1rem;
+}
+.bd .card { 
+ background-color: #00adb5;
+}
+.card-body {
+
+  padding: 0;
+  
+
+}
+
+.image-bdd{
+
+  
+  height: 100px;
+  width: 100px;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: contain;
+ 
+ 
+    
+  
+}
+.badge {
+  font-size: 1rem;
+}
